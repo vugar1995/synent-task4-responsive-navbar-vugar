@@ -16,6 +16,3 @@ Email: imamov.sah@gmail.com | Phone: +90 551 896 17 28 | LinkedIn: https://www.l
 
 
 
-
-## Suggested Repository Name
-`synent-task4-responsive-navbar-vugar`
